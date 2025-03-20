@@ -2,7 +2,7 @@
 name = "fsgen"
 version = "0.1.0"
 edition = "2021"
-authors = ["Narayan SS <narayan@example.com>"]
+authors = ["Narayan SS <rocknarayan@gmail.com>"]
 description = "A file system directory structure generator"
 
 [dependencies]
